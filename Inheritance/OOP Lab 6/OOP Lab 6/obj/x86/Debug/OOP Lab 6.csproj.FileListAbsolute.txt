@@ -1,0 +1,5 @@
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lab 6\OOP Lab 6\bin\Debug\OOP Lab 6.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lab 6\OOP Lab 6\bin\Debug\OOP Lab 6.pdb
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lab 6\OOP Lab 6\obj\x86\Debug\OOP Lab 6.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP Lab 6\OOP Lab 6\obj\x86\Debug\OOP Lab 6.pdb
+C:\Users\CZ 3\documents\visual studio 2010\Projects\OOP Lab 6\OOP Lab 6\obj\x86\Debug\OOP Lab 6.csprojResolveAssemblyReference.cache
